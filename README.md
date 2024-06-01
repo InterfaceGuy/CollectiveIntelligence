@@ -1,1 +1,2 @@
 # CollectiveIntelligence
+![](CollectiveIntelligence.png)
